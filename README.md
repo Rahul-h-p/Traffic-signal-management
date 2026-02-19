@@ -1,5 +1,4 @@
-# Traffic-signal-management
-<br>
+# Traffic-signal-management<br>
 Author- Rahul H P 
 <h3>Traffic control signal light using LMX03LF 6900C FPGA</h3> 
 <h4>Device Information</h4> 
@@ -19,3 +18,6 @@ Author- Rahul H P
   PIO Pins: 207<br>
   Max Programmable IOs: 206<br>
 </p>
+
+<h3>References</h3>
+<h4>MACHX03 Family datasheet</h4> <p>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/925/MachXO3_Family_DataSheet.pdf</p>
