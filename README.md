@@ -20,4 +20,4 @@ Author- Rahul H P
 </p>
 
 <h3>References</h3>
-<h4>MACHX03 Family datasheet</h4> <p>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/925/MachXO3_Family_DataSheet.pdf</p>
+<h4>MachX03 Family datasheet</h4> <p>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/925/MachXO3_Family_DataSheet.pdf</p>
