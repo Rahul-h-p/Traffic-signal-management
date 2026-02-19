@@ -1,7 +1,21 @@
 # Traffic-signal-management
 <br>
 Author- Rahul H P 
-<h3>Traffic signal light using LMX03LF 6900C FPGA</h3> 
+<h3>Traffic control signal light using LMX03LF 6900C FPGA</h3> 
 <h4>Device Information</h4> 
-<p><img width="163" height="244" alt="{65EDB4C3-2790-4CDA-94A1-E7BCB60F18D7}" src="https://github.com/user-attachments/assets/278c588b-be1c-48a3-afd2-8746c5ddb063" />
+<p>
+  Voltage: 2.5V/3.3V<br>
+  LUT: 6864<br> 
+  Registers: 6864<br> 
+  EBR Bits: 234K<br> 
+  EBR Blocks: 26<br>
+  Dis RAM: 54912<br>
+  DSP: -<br>
+  PLL: 2<br>
+  DLL: 0<br>
+  PCS: -<br>
+  APIO: <br>
+  PIO Cells: 336<br>
+  PIO Pins: 207<br>
+  Max Programmable IOs: 206<br>
 </p>
