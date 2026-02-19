@@ -1,6 +1,7 @@
 # Traffic-signal-management<br>
 Author- Rahul H P <br>
-DATE: 
+DATE: 11/02/2026 <br>
+
 <h2>Traffic control signal light using LMX03LF 6900C FPGA</h2> 
 <h3>FPGA Device Information</h3> 
 <p>
