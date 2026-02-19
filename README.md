@@ -1,7 +1,7 @@
 # Traffic-signal-management<br>
 Author- Rahul H P 
 <h3>Traffic control signal light using LMX03LF 6900C FPGA</h3> 
-<h4>Device Information</h4> 
+<h4>FPGA Device Information</h4> 
 <p>
   Voltage: 2.5V/3.3V<br>
   LUT: 6864<br> 
