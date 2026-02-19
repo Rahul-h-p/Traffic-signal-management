@@ -26,7 +26,7 @@ tree or as a reference clock to the sysCLOCK PLL using general routing resources
 divided by internal logic. There is a dedicated programming bit and a user input to enable/disable the oscillator. The
 oscillator frequency ranges from 2.08 MHz to 133 MHz. The software default value of the Master Clock (MCLK) is
 nominally 2.08 MHz.</p>
-<t>Table 1: Available MCLK Frequencies</t>
+<h8>Table 1: Available MCLK Frequencies</h8>
 <p><img width="563" height="127" alt="{09775338-1707-40E9-8617-9CD2E17E16B8}" src="https://github.com/user-attachments/assets/5540b0ca-f7dc-4b25-bf70-8d7b880c0707" />
 </p>
 <h3>References</h3>
