@@ -20,13 +20,17 @@ module TrafficControl_tb;
         reset = 0;
 
         #200;
+		
         reset = 1;
+		
         #400;
+		
         reset = 0;
 
      $monitor("Time: %d, NS: %b, EW: %b", $time, NS, EW);
 
         #300;
+		
         $finish;
     end
 
