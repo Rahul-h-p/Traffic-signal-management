@@ -2,7 +2,7 @@
 Author- Rahul H P <br>
 DATE: 11/02/2026 <br>
 
-<h2>Traffic control signal light using LMX03LF 6900C FPGA</h2> 
+<h2>Controlling of traffic signal light using LMX03LF 6900C FPGA</h2> 
 <h3>FPGA Device Information</h3> 
 <p>
   Voltage: 2.5V/3.3V<br>
@@ -31,3 +31,5 @@ nominally 2.08 MHz.</p>
 </p>
 <h3>References</h3>
 <h4>MachX03 Family datasheet</h4> <p>https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/925/MachXO3_Family_DataSheet.pdf</p>
+<h4>MachX03LF Starter Kit</h4> <p>[SEUMachXO3LFDemoUG115.pdf](https://github.com/user-attachments/files/25476480/SEUMachXO3LFDemoUG115.pdf)
+</p>
